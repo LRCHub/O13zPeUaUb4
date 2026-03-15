@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "THANX",
+  "base_artist": "WANIMA",
+  "createdAt": "2026-03-15T16:15:10.207834Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Thanx 4 Nothin'",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/01_Thanx_4_Nothin'_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Thanx But No Thanx",
+      "artist": "Infectious Grooves",
+      "has_synced": true,
+      "path": "select/02_Thanx_But_No_Thanx_Infectious_Grooves.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Thanx but No Thanx",
+      "artist": "Ministry",
+      "has_synced": true,
+      "path": "select/03_Thanx_but_No_Thanx_Ministry.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Thanx for Nothin' - Live",
+      "artist": "Overkill",
+      "has_synced": false,
+      "path": "select/04_Thanx_for_Nothin'_-_Live_Overkill.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Thanx For Nothing",
+      "artist": "The Vandals",
+      "has_synced": false,
+      "path": "select/05_Thanx_For_Nothing_The_Vandals.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Thanx Dub (Instrumental)",
+      "artist": "Sublime",
+      "has_synced": false,
+      "path": "select/06_Thanx_Dub_(Instrumental)_Sublime.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Thanx 4 Nothin'",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/07_Thanx_4_Nothin'_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Thanx",
+      "artist": "Sublime",
+      "has_synced": false,
+      "path": "select/08_Thanx_Sublime.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Thanx (Hidden Track)",
+      "artist": "Sublime",
+      "has_synced": false,
+      "path": "select/09_Thanx_(Hidden_Track)_Sublime.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Thanx",
+      "artist": "Sublime",
+      "has_synced": true,
+      "path": "select/10_Thanx_Sublime.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "SP Thanx",
+      "artist": "Orange Range",
+      "has_synced": false,
+      "path": "select/11_SP_Thanx_Orange_Range.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "SP Thanx",
+      "artist": "ORANGE RANGE",
+      "has_synced": true,
+      "path": "select/12_SP_Thanx_ORANGE_RANGE.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Thanx For Stayin",
+      "artist": "Reggie and the Full Effect",
+      "has_synced": true,
+      "path": "select/13_Thanx_For_Stayin_Reggie_and_the_Full_Effect.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Thanx for Stayin'",
+      "artist": "Reggie and the Full Effect",
+      "has_synced": false,
+      "path": "select/14_Thanx_for_Stayin'_Reggie_and_the_Full_Effect.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Thanx Givin' Day",
+      "artist": "MIYAVI",
+      "has_synced": false,
+      "path": "select/15_Thanx_Givin'_Day_MIYAVI.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Thanx For Nothin'",
+      "artist": "Overkill",
+      "has_synced": false,
+      "path": "select/16_Thanx_For_Nothin'_Overkill.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Thanx",
+      "artist": "Lisa Marie Presley",
+      "has_synced": false,
+      "path": "select/17_Thanx_Lisa_Marie_Presley.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "THANX",
+      "artist": "WANIMA",
+      "has_synced": false,
+      "path": "select/pl_01_THANX_WANIMA.txt"
+    }
+  ]
+}
